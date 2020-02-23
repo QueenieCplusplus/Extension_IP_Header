@@ -3,21 +3,27 @@
 
 # IPv6 Header 
 
-Version 6
+          IPv6 Header            |
+          Next Header = TCP      |     TCP Header & Data
+          Value 6                |
 
-Traffic Class (Procendence)
+> Header Fields 
 
-Flow Label (to make flag on sequence)
+        Version 6
 
-Payload Length
+        Traffic Class (Procendence)
 
-Next Header (the extension header, the topic we discuss hereby)
+        Flow Label (to make flag on sequence)
 
-Hop Limit, 中繼
+        Payload Length
 
-Src Addr
+        Next Header (the extension header, the topic we discuss hereby)
 
-Des Addr
+        Hop Limit, 中繼
+
+        Src Addr
+
+        Des Addr
 
 # Extension Header
 
