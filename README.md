@@ -37,6 +37,8 @@
 
 * Routing Header
 
+        有欄位稱為 Segemt Left, 能顯示還有多少節點需要拜訪
+
 * Hop-by-Hop Options Header
 
 
