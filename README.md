@@ -1,6 +1,8 @@
 # Extension_IP_Header
 擴充的 IP 標頭
 
+![header](https://blog.apnic.net/wp-content/uploads/2018/06/IPv4-header_banner.png?v=ef76318c2475c1144902cd7bbad7a056)
+
 # IPv6 Header 
 
 > Header looks like
