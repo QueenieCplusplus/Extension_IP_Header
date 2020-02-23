@@ -3,6 +3,8 @@
 
 # IPv6 Header 
 
+> Header looks like
+
           IPv6 Header            |
           Next Header = TCP      |     TCP Header & Data
           Value 6                |
@@ -59,7 +61,7 @@
 
 # ESP, Encapsulation Security Payload Header
 
-features:
+> Features:
 
 (1) anti-replay
 
