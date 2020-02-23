@@ -24,6 +24,10 @@
         Src Addr
 
         Des Addr
+        
+> Drop Header, return
+
+        A Msg shows ICMPv6 Param Problem
 
 # Extension Header
 
