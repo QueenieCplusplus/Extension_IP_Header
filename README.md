@@ -13,7 +13,9 @@
           Next Header = TCP      |     TCP Header & Data
           Value 6                |
 
-> Header Fields 
+> Header Fields & holding space
+
+![ipv6 header](https://blog-imgs-78-origin.fc2.com/h/a/n/hanteye01/20150410170156c43.png)
 
         Version 6
 
