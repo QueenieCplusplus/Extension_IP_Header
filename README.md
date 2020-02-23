@@ -43,15 +43,47 @@
 
 # AH, Auth Header
 
+> AH Fileds
+
 * Next Header = Auth Header
 
 * Reserverd 
 
 * SPI, Security Param Index
 
+* Payload Data
+
 * Seq num
 
 * Checksum
+
+# ESP, Encapsulation Security Payload Header
+
+features:
+
+(1) anti-replay
+
+(2) auth
+
+(3) confidence
+
+(4) integrity
+
+> ESP Fields
+
+* SPI
+
+* Payload Data (Encypted Data)
+
+* Seq num
+
+* Next Header = Auth Header
+
+* Auth Data
+
+
+
+
 
 
 
