@@ -81,6 +81,20 @@ features:
 
 * Auth Data
 
+# Combination of Auth & ESP
+
+(talk later)
+
+# Tech for Trans/Rcv
+
+* 4 & 6 Dual Stack
+
+* Tunneling
+
+* 4To6
+
+(to be continued...)
+
 
 
 
