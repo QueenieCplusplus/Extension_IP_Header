@@ -41,4 +41,18 @@
 
 * Hop-by-Hop Options Header
 
+# AH, Auth Header
+
+* Next Header = Auth Header
+
+* Reserverd 
+
+* SPI, Security Param Index
+
+* Seq num
+
+* Checksum
+
+
+
 
