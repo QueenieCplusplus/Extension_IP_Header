@@ -39,6 +39,8 @@
 
 # Extension Header
 
+![extension](https://blog-imgs-78-origin.fc2.com/h/a/n/hanteye01/201504101705496c8.png)
+
 * Encapsulation Sec Payload Header
 
 * Auth Header
